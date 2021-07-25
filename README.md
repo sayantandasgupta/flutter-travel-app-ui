@@ -1,6 +1,6 @@
 # travel_app_ui
 
-![Travel App UI]('https://github.com/Arka2001/flutter-travel-app-ui/blob/master/images/travelAppUI.gif')
+This simple Travel App UI was made by me with a few changes following a tutorial by Pawan Kumar ( MTechViral on YouTube ).
 
 ## Getting Started
 
