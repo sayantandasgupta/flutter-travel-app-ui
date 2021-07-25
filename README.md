@@ -1,6 +1,6 @@
 # travel_app_ui
 
-A new Flutter project.
+![Travel App UI]('images/travelAppUI.gif')
 
 ## Getting Started
 
