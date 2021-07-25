@@ -1,6 +1,6 @@
 # travel_app_ui
 
-![Travel App UI]('images/travelAppUI.gif')
+![Travel App UI]('https://github.com/Arka2001/flutter-travel-app-ui/blob/master/images/travelAppUI.gif')
 
 ## Getting Started
 
